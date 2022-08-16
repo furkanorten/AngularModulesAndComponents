@@ -1,8 +1,12 @@
 # AngularModulesAndComponents
 
-Example website developed using angular modules and components
+### Example website developed using angular modules and components
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+
+## Installing Packages
+
+Run `npm install` for installing node modules.
 
 ## Development server
 
